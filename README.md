@@ -3,8 +3,8 @@ example_bins
 
 First example code for refactoring
 
-First edit made in vim!
+First edit made in vim.
 
-Second edit made on the github webpage! 
+Second edit made on the github webpage. 
 
-Third edit made in Eclipse! Holy cow!
+Third edit made in Eclipse.
